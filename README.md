@@ -12,7 +12,7 @@ This program allows you to effectively schedule your **YouTube posts** using Exc
   <br>
   You can get more detailed information about the use of the programme by watching the YouTube Video below...
   <a href="https://www.youtube.com/watch?v=CRlea_t_e4w&t">https://www.youtube.com/watch?v=CRlea_t_e4w&t</a>
-  <br>
+  <br><br><br>
 </div>
 
 
